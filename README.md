@@ -6,6 +6,6 @@ Fluid density is calculated using the equations of: Driesner (2007, Geochimica e
 
 Viscosity referred exclusively to a pure H2O fluid (approximation) is calculated using Haar et al. (1984, Steam Tables. Hemisphere Publishing Corporation).
 
-**mu_rho_H<sub>2</sub>O** can be used standalone to simply plot tabulated data, but a working version of [CoolProp](https://github.com/CoolProp/CoolProp/tree/master/wrappers/MATLAB) is required if new tables must be produced to extend the plot at different PT conditions.
+**mu_rho_H<sub>2</sub>O** can be used standalone to simply plot tabulated data, but a working version of [CoolProp](https://github.com/CoolProp/CoolProp/tree/master/wrappers/MATLAB) is required if new tables must be produced to extend the plot at different PT or salinity conditions.
 
 @ Andrea Bistacchi 2016
